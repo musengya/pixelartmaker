@@ -1,5 +1,5 @@
 # Pixel Art Maker Project
-This is an online drawing application and socia paltform for creative minds who want to venture into the world of art, games and programming. It is published at: https://musengya.github.io/pixelartmaker/
+This is an online drawing application and socia platform for creative minds who want to venture into the world of art, games and programming. It is published at: https://musengya.github.io/pixelartmaker/
 
 ## How to download the game
 * Navigate to https://github.com/musengya/pixelartmaker.
